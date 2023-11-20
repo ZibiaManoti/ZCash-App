@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ZCash-App/static/css/main.6d122062.css",
+    "main.js": "/ZCash-App/static/js/main.ebfa5535.js",
+    "index.html": "/ZCash-App/index.html",
+    "main.6d122062.css.map": "/ZCash-App/static/css/main.6d122062.css.map",
+    "main.ebfa5535.js.map": "/ZCash-App/static/js/main.ebfa5535.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d122062.css",
+    "static/js/main.ebfa5535.js"
+  ]
+}
